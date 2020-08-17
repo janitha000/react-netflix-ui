@@ -1,0 +1,31 @@
+.navbar{
+    position: fixed;
+    top:0;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 10px;
+    height: 50px;
+    z-index: 1;
+
+    transition-timing-function: 'ease-in';
+    transition: all 1s;
+}
+
+.navbar__black{
+    background: black
+}
+
+.navbar__netfliximg{
+    position: fixed;
+    left:20px;
+    width: 100px;
+    object-fit: contain;
+}
+
+.navbar__userimg{
+    position: fixed;
+    right: 20px;
+    width: 50px;
+    object-fit: center;
+}

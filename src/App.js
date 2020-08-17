@@ -1,10 +1,50 @@
 import React from 'react';
 import './App.css';
 
+import NavBar from './components/navbar/navBar'
+
 function App() {
   return (
     <div className="App">
-      <h1>This is netflix UI</h1>
+      <NavBar />
+      <p>This is a sample text</p>
+      <p>This is a sample text</p>
+      <p>This is a sample text</p>
+      <p>This is a sample text</p>
+      <p>This is a sample text</p>
+      <p>This is a sample text</p>
+      <p>This is a sample text</p>
+      <p>This is a sample text</p>
+      <p>This is a sample text</p>
+      <p>This is a sample text</p>
+      <p>This is a sample text</p>
+      <p>This is a sample text</p>
+      <p>This is a sample text</p>
+      <p>This is a sample text</p>
+      <p>This is a sample text</p>
+      <p>This is a sample text</p>
+      <p>This is a sample text</p>
+      <p>This is a sample text</p>
+      <p>This is a sample text</p>
+      <p>This is a sample text</p>
+      <p>This is a sample text</p>
+      <p>This is a sample text</p>
+      <p>This is a sample text</p>
+      <p>This is a sample text</p>
+      <p>This is a sample text</p>
+      <p>This is a sample text</p>
+      <p>This is a sample text</p>
+      <p>This is a sample text</p>
+      <p>This is a sample text</p>
+      <p>This is a sample text</p>
+      <p>This is a sample text</p>
+      <p>This is a sample text</p>
+      <p>This is a sample text</p>
+      <p>This is a sample text</p>
+      <p>This is a sample text</p>
+      <p>This is a sample text</p>
+      <p>This is a sample text</p>
+      <p>This is a sample text</p>
     </div>
   );
 }
