@@ -1,6 +1,6 @@
 Simple Netflix-UI clone application created using React
 
-![Image of Yaktocat](./img/Capture.PNG)
+![Image of Yaktocat](/img/Capture.PNG)
 
 ## Available Scripts
 
