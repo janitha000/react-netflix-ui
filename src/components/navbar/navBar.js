@@ -20,7 +20,7 @@ const NavBar = () => {
     return (
         <div className={`navbar ${show && 'navbar__black'}`} >
             <img className="navbar__netfliximg"
-                src="https://assets.brand.microsites.netflix.io/assets/493f5bba-81a4-11e9-bf79-066b49664af6_cm_1440w.png?v=21"
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/1920px-Netflix_2015_logo.svg.png"
                 alt="Netflix logo" />
 
             <img className="navbar__userimg"
