@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Simple Netflix-UI clone application created using React
+
+![Image of Yaktocat](./img/Capture.PNG)
 
 ## Available Scripts
 
