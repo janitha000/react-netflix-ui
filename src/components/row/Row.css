@@ -3,6 +3,11 @@
     margin-left: 20px;
 }
 
+.row__title{
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Playfair Display', serif;
+}
+
 .row__posters{
     display: flex;
     overflow-y: hidden;
@@ -25,4 +30,9 @@
 .row__poster:hover{
     cursor: pointer;
     transform: scale(1.08);
+}
+
+.row__youtube{
+    display: flex;
+    justify-content: space-evenly;
 }
